@@ -18,8 +18,9 @@ In my spare time I like to spend my time with my two cats Zoe and Stormy, collec
 
 ### I'm also a big nootropics 💊 guy, and my current stack is
 - Lion's Mane, Ginkgo, Huperzine A, Uridine Monophosphate, Omega-3
-- Vitamin D-3, C, B1, B2, B3, B5 B6, B9, B12, Magnesium, Zinc
+- Vitamin D3, C, B1, B2, B3, B5 B6, B9, B12, Magnesium, Zinc
 - and abnormally big doses of laboratory grade Coffeine
+
 My basic stack is built with: Lion's Mane, Ginkgo, Vitamin D3 and B12. It really helps with clarity and memory.
 
 <!--
