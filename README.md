@@ -1,7 +1,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/miharajster/miharajster/main/banner.jpg"/>
 
 ### Hi there 👋
-I'm Miha Rajšter, coming from Slovenia (EU) and I've started coding my first web pages around the 2000s. I also run a company, called Lumnium - "Illuminating your dreams" that was formed in December 2015. 
+I'm Miha Rajšter (Michael), coming from Slovenia (EU) and I've started coding my first web pages around the 2000s. I also run a company, called Lumnium - "Illuminating your dreams" that was formed in December 2015. 
 My favorite OS is LINUX, but I'm a huge proponent of using whatever makes your task easyer, so I normally run the second latest Microsoft OS.
 In my spare time I like to spend my time with my two cats Zoe and Stormy, collecting and repairing old Nintendo hardware and making my own with Atmel or RaspberryPi.
 
