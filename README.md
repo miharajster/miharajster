@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm Miha Rajšter, comming from Slovenia (EU) and I've started coding my first webpages around 2000s. I also run a company, called Lumnium - "Illuminating your dreams" that has been formed on December 2015. 
+
+### I work with 🐱‍💻
+- HTML, HTML5, CSS, CSS3, SCSS, SASS
+- Bootstrap, Animate, Bulma, Materialize
+- PHP, CakePHP, Laravel, Sinfony
+- JavaScript, jQuery, TypeScript, Vue (VueEX), Angular (RyJS, e2e, unit), Ract, React Native
+- MySQL, MariaDB, PostgreSQL, Restfull API-s, Oauth, Keycloak
+- OpenCV
+- Pascal, ActionScript, Basic, Java, Python (Django), Bash, Batch...
 
 <!--
 **miharajster/miharajster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
