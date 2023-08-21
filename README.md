@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/miharajster/miharajster/main/banner.jpg"/>
+<img width="100%" src="https://raw.githubusercontent.com/miharajster/miharajster/main/banneer.jpg"/>
 
 ### Hi there 👋
 I'm Miha Rajšter (Michael), coming from Slovenia (EU) and I've started coding my first web pages around the 2000s. I also run a company, called Lumnium - "Illuminating your dreams" that was formed in December 2015. 
