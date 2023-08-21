@@ -25,6 +25,11 @@ In my spare time I like to spend my time with my two cats Zoe and Stormy, collec
 
 My basic stack is built with: 🍄 Lion's Mane, 🌿 Ginkgo, 🧪 Vitamin D3 and B12. It really helps with clarity and memory.
 
+### 💩 Things that I disslike
+- Wordpress
+- Joomla
+- Have I mention Wordpress?
+
 ### 📫 You can reach me at:
 [✉ rajstermiha@gmail.com](mailto:rajstermiha@gmail.com)
 
