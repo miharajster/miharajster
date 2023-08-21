@@ -3,7 +3,7 @@ I'm Miha Rajšter, coming from Slovenia (EU) and I've started coding my first we
 My favorite OS is LINUX, but I'm a huge proponent of using whatever makes your task easyer, so I normally run the second latest Microsoft OS.
 In my spare time I like to spend my time with my two cats Zoe and Stormy, collecting and repairing old Nintendo hardware and making my own with Atmel or RaspberryPi.
 
-### I work with 🐱‍💻
+### 🐱‍💻 I work with 
 - HTML, HTML5, CSS, CSS3, SCSS, SASS
 - Bootstrap, Animate, Bulma, Materialize
 - PHP, CakePHP, Laravel, Sinfony
@@ -16,14 +16,14 @@ In my spare time I like to spend my time with my two cats Zoe and Stormy, collec
 - Rust
 - Marcus Aurelius - Meditations
 
-### I'm also a big nootropics 💊 guy, and my current stack is
+### 💊 I'm also a big nootropics guy, and my current stack is
 - Lion's Mane, Ginkgo, Huperzine A, Uridine Monophosphate, Omega-3
 - Vitamin D3, C, B1, B2, B3, B5 B6, B9, B12, Magnesium, Zinc
 - and abnormally big doses of laboratory grade Coffeine
 
 My basic stack is built with: Lion's Mane, Ginkgo, Vitamin D3 and B12. It really helps with clarity and memory.
 
-### 📫 How to reach me:
+### 📫 You can reach me at:
 [rajstermiha@gmail.com](mailto:rajstermiha@gmail.com)
 
 <!--
