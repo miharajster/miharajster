@@ -23,6 +23,9 @@ In my spare time I like to spend my time with my two cats Zoe and Stormy, collec
 
 My basic stack is built with: Lion's Mane, Ginkgo, Vitamin D3 and B12. It really helps with clarity and memory.
 
+### 📫 How to reach me:
+[rajstermiha@gmail.com](mailto:rajstermiha@gmail.com)
+
 <!--
 **miharajster/miharajster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
