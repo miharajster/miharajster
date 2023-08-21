@@ -8,9 +8,9 @@ In my spare time I like to spend my time with my two cats Zoe and Stormy, collec
 ### 🐱‍💻 I work with 
 - HTML, HTML5, CSS, CSS3, SCSS, SASS
 - Bootstrap, Animate, Bulma, Materialize
-- PHP, CakePHP, Laravel, Sinfony
-- JavaScript, jQuery, TypeScript, Vue (VueEX), Angular (RyJS, e2e, unit), Ract, React Native
-- MySQL, MariaDB, PostgreSQL, Restful API-s, Oauth, Keycloak
+- **PHP**, CakePHP, Laravel, Sinfony
+- JavaScript, jQuery, TypeScript, Vue (VueEX), **Angular** (RyJS, e2e, unit), Ract, React Native
+- MySQL, **MariaDB**, PostgreSQL, Restful API-s, Oauth, Keycloak
 - OpenCV
 - Pascal, ActionScript, Basic, Java, Python (Django), Bash, Batch, C, C++, C#...
 
