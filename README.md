@@ -29,7 +29,7 @@ My basic stack is built with: 🍄 Lion's Mane, 🌿 Ginkgo, 🧪 Vitamin D3 and
 [✉ rajstermiha@gmail.com](mailto:rajstermiha@gmail.com)
 
 ### 📜 And my CV here:
-[CV Repo](https://github.com/miharajster/cv)
+[📄 CV Repo](https://github.com/miharajster/cv)
 
 <!--
 **miharajster/miharajster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
