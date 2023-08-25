@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/miharajster/miharajster/main/banneer.jpg"/>
+<img width="100%" src="https://raw.githubusercontent.com/miharajster/miharajster/main/lib/banneer.jpg"/>
 
 ### Hi there 👋
 I'm Miha Rajšter (Michael), coming from Slovenia (EU) and I've started coding my first web pages around the 2000s. I also run a company, called Lumnium - "Illuminating your dreams" that was formed in December 2015. 
@@ -26,10 +26,15 @@ In my spare time I like to spend my time with my two cats Zoe and Stormy, collec
 
 My basic stack is built with: 🍄 Lion's Mane, 🌿 Ginkgo, 🧪 Vitamin D3 and B12. It really helps with clarity and memory.
 
-### 📫 You can reach me at:
+### ⚡ Fun fact
+<img src="https://raw.githubusercontent.com/miharajster/miharajster/main/lib/wow.jpg"/>
+In highschool me and my 3 friends "ruined" our lifes with World of Warcraft. <br/>
+FOR THE HORDE!
+
+### 📫 You can reach me at
 [✉ rajstermiha@gmail.com](mailto:rajstermiha@gmail.com)
 
-### 📜 And my CV here:
+### 📜 And my CV here
 [📄 CV Repo](https://github.com/miharajster/cv)
 
 
