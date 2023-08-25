@@ -28,7 +28,7 @@ My basic stack is built with: 🍄 Lion's Mane, 🌿 Ginkgo, 🧪 Vitamin D3 and
 
 ### ⚡ Fun fact
 <img width="500" src="https://raw.githubusercontent.com/miharajster/miharajster/main/lib/wow.jpg"/>
-In highschool me and my 3 friends "ruined" our lifes with World of Warcraft. <br/>
+In highschool me and my 3 friends "ruined" our lifes with World of Warcraft - Vanila. <br/>
 FOR THE HORDE!
 
 ### 📫 You can reach me at
