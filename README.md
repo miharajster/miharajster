@@ -31,7 +31,7 @@ My basic stack is built with: 🍄 Lion's Mane, 🌿 Ginkgo, 🧪 Vitamin D3 and
 ### 📜 And my CV here:
 [📄 CV Repo](https://github.com/miharajster/cv)
 
-![Top Langs](github-readme-stats-two-gules-79.vercel.app/api/top-langs/?username=miharajster)
+![Top Langs](https://github-readme-stats-two-gules-79.vercel.app/api/top-langs/?username=miharajster)
 
 <!--
 **miharajster/miharajster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
