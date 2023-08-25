@@ -6,6 +6,8 @@ My favorite OS is LINUX, but I'm a huge proponent of using whatever makes your t
 In my spare time I like to spend my time with my two cats Zoe and Stormy, collecting and repairing old Nintendo hardware and making my own with Atmel or RaspberryPi.
 
 ### 🐱‍💻 I work with 
+![Top Langs](https://github-readme-stats-two-gules-79.vercel.app/api/top-langs/?username=miharajster&langs_count=8&layout=compact)
+
 - HTML, HTML5, CSS, CSS3, SCSS, SASS
 - Bootstrap, Animate, Bulma, Materialize
 - **PHP**, CakePHP, Laravel, Sinfony
@@ -31,7 +33,6 @@ My basic stack is built with: 🍄 Lion's Mane, 🌿 Ginkgo, 🧪 Vitamin D3 and
 ### 📜 And my CV here:
 [📄 CV Repo](https://github.com/miharajster/cv)
 
-![Top Langs](https://github-readme-stats-two-gules-79.vercel.app/api/top-langs/?username=miharajster)
 
 <!--
 **miharajster/miharajster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
