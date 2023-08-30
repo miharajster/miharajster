@@ -9,7 +9,7 @@ In my spare time I like to spend my time with my two cats Zoe and Stormy, collec
 <!--![Top Langs](https://github-readme-stats-two-gules-79.vercel.app/api/top-langs/?username=miharajster&langs_count=8&layout=compact)-->
 - HTML, HTML5, CSS, CSS3, SCSS, SASS
 - Bootstrap, Animate, Bulma, Materialize
-- **PHP**, CakePHP, Laravel, Sinfony
+- **PHP**, CakePHP, Laravel, Symfony
 - JavaScript, jQuery, TypeScript, Vue (VueEX), **Angular** (RyJS, e2e, unit), Ract, React Native
 - MySQL, **MariaDB**, PostgreSQL, Restful API-s, Oauth, Keycloak
 - OpenCV
