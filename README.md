@@ -24,6 +24,9 @@ In my spare time I like to spend my time with my two cats Zoe and Stormy, collec
 - Vitamin D3, C, B1, B2, B3, B5 B6, B9, B12, Magnesium, Zinc
 - and abnormally big doses of laboratory grade Coffeine
 
+> "Nootropics (/noʊ.əˈtroʊpɪks/ noh-ə-TROHP-iks or /noʊ.əˈtrɒpɪks/ noh-ə-TROP-iks[1]) (colloquial: brain supplements, smart drugs and cognitive enhancers) are numerous natural, semi-synthetic and synthetic molecules that claim to improve cognitive functions (such as executive functions, attention, memory, creativity)."
+- Wikipedia
+
 My basic stack is built with: 🍄 Lion's Mane, 🌿 Ginkgo, 🧪 Vitamin D3 and B12. It really helps with clarity and memory.
 
 ### ⚡ Fun fact
