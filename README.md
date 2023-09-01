@@ -5,6 +5,8 @@ I'm Miha Rajšter (Michael), coming from Slovenia (EU) and I've started coding m
 My favorite OS is LINUX, but I'm a huge proponent of using whatever makes your task easyer, so I normally run the second latest Microsoft OS.
 In my spare time I like to spend my time with my two cats Zoe and Stormy, collecting and repairing old Nintendo hardware and making my own with Atmel or RaspberryPi.
 
+https://github.com/miharajster/miharajster/assets/33149554/9dc4575d-1c60-491f-92b5-3b7cf40915c2
+
 ### 🐱‍💻 I work with 
 <!--![Top Langs](https://github-readme-stats-two-gules-79.vercel.app/api/top-langs/?username=miharajster&langs_count=8&layout=compact)-->
 - HTML, HTML5, CSS, CSS3, SCSS, SASS
