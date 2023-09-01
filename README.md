@@ -5,6 +5,11 @@ I'm Miha Rajšter (Michael), coming from Slovenia (EU) and I've started coding m
 My favorite OS is LINUX, but I'm a huge proponent of using whatever makes your task easyer, so I normally run the second latest Microsoft OS.
 In my spare time I like to spend my time with my two cats Zoe and Stormy, collecting and repairing old Nintendo hardware and making my own with Atmel or RaspberryPi.
 
+<audio controls>
+  <source src="https://raw.githubusercontent.com/miharajster/miharajster/main/lib/Intro.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 ### 🐱‍💻 I work with 
 <!--![Top Langs](https://github-readme-stats-two-gules-79.vercel.app/api/top-langs/?username=miharajster&langs_count=8&layout=compact)-->
 - HTML, HTML5, CSS, CSS3, SCSS, SASS
