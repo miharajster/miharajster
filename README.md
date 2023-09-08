@@ -4,7 +4,7 @@
 
 https://github.com/miharajster/miharajster/assets/33149554/8263b9c9-fc02-442d-8ec1-3727237f430c
 
-I'm Miha Rajšter (Michael), coming from Slovenia (EU) and I've started coding my first web pages around the 2000s. I also run a company, called Lumnium - "Illuminating your dreams" that was formed in December 2015. 
+I'm Miha Rajšter (Michael), coming from Slovenia (EU) and I've started coding my first web pages around the 2000s. I also run a company, called [Lumnium](https://www.bizi.si/MIHAEL-RAJSTER-S-P-LUMNIUM/) - "Illuminating your dreams" that was formed in December 2015. 
 My favorite OS is LINUX, but I'm a huge proponent of using whatever makes your task easyer, so I normally run the second latest Microsoft OS.
 In my spare time I like to spend my time with my two cats Zoe and Stormy, collecting and repairing old Nintendo hardware and making my own with Atmel or RaspberryPi.
 
