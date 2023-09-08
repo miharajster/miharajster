@@ -18,7 +18,7 @@ https://github.com/miharajster/miharajster/assets/33149554/9dc4575d-1c60-491f-92
 - Pascal, ActionScript, Basic, Java, Python (Django), Bash, Batch, C, C++, C#...
 
 ### 🌱 I’m currently learning...
-- Rust
+- Rust => WebAssembly
 - Marcus Aurelius - Meditations
 
 ### 💊 I'm also a big nootropics guy, and my current stack is
