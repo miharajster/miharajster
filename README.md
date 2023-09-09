@@ -22,7 +22,7 @@ In my spare time I like to spend my time with my two cats Zoe and Stormy, collec
 - Rust => WebAssembly
 - Marcus Aurelius - Meditations
 
-### 📣 My articales
+### 📣 My articles
 - [How to Learn](https://github.com/miharajster/How-to-Learn)
   - [How to Learn on Youtube](https://github.com/miharajster/How-to-Learn-from-Youtube)
 
