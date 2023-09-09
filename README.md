@@ -22,6 +22,10 @@ In my spare time I like to spend my time with my two cats Zoe and Stormy, collec
 - Rust => WebAssembly
 - Marcus Aurelius - Meditations
 
+### 📣 My articales
+- [How to Learn](https://github.com/miharajster/How-to-Learn)
+  - [How to Learn on Youtube](https://github.com/miharajster/How-to-Learn-from-Youtube)
+
 ### 💊 I'm also a big nootropics guy, and my current stack is
 - Lion's Mane, Ginkgo, Huperzine A, Uridine Monophosphate, Omega-3
 - Vitamin D3, C, B1, B2, B3, B5 B6, B9, B12, Magnesium, Zinc
