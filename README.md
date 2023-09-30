@@ -13,7 +13,7 @@ In my spare time I like to spend my time with my two cats Zoe and Stormy, collec
 - HTML, HTML5, CSS, CSS3, SCSS, SASS
 - Bootstrap, Animate, Bulma, Materialize
 - **PHP**, CakePHP, Laravel, Symfony
-- JavaScript, jQuery, TypeScript, Vue (VueEX), **Angular** (RyJS, e2e, unit), Ract, React Native
+- JavaScript, jQuery, TypeScript, Vue (VueEX), **Angular** (RyJS, e2e, unit), React, React Native
 - MySQL, **MariaDB**, PostgreSQL, Restful API-s, Oauth, Keycloak
 - OpenCV
 - Pascal, ActionScript, Basic, Java, Python (Django), Bash, Batch, C, C++, C#...
