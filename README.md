@@ -25,6 +25,7 @@ In my spare time I like to spend my time with my two cats Zoe and Stormy, collec
 ### 📣 My articles
 - [How to Learn](https://github.com/miharajster/How-to-Learn)
   - [How to Learn on Youtube](https://github.com/miharajster/How-to-Learn-from-Youtube)
+- [How To Use ChatGPT and get UNFAIR Advantage](https://github.com/miharajster/HowToChatGPT)
 
 ### 💊 I'm also a big nootropics guy, and my current stack is
 - Lion's Mane, Ginkgo, Huperzine A, Uridine Monophosphate, Omega-3
