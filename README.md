@@ -27,10 +27,15 @@ In my spare time I like to spend my time with my two cats Zoe and Stormy, collec
   - [How to Learn on Youtube](https://github.com/miharajster/How-to-Learn-from-Youtube)
 - [How To Use ChatGPT and get UNFAIR Advantage](https://github.com/miharajster/HowToChatGPT)
 
-### 💊 I'm also a big nootropics guy, and my current stack is
-- Lion's Mane, Ginkgo, Huperzine A, Uridine Monophosphate, Omega-3
-- Vitamin D3, C, B1, B2, B3, B5 B6, B9, B12, Magnesium, Zinc
-- and abnormally big doses of laboratory grade Coffeine
+### 💊 I'm also a big nootropics guy, and my current basic stack is
+- Methylene Blue (enables unused brain tissue)
+- Lion's Mane 2g (provides neurogenesis - brain growth, resulting in faster thinking and focus)
+- Ginkgo 2g (provides you with better memory and focus)
+- Creatine (optimizes brain nutrition - affects speed and focus)
+- Omega-3 800mg EPA, 600mg DHA (brain food)
+- Vitamin D3, C, B1, B2, B3, B5, B6, B9, B12, Magnesium, Zinc
+- 30 min/day HIIT
+- And abnormally large doses of laboratory-grade Caffeine
 
 > [!NOTE]
 > "Nootropics (/noʊ.əˈtroʊpɪks/ noh-ə-TROHP-iks or /noʊ.əˈtrɒpɪks/ noh-ə-TROP-iks[1]) (colloquial: brain supplements, smart drugs and cognitive enhancers) are numerous natural, semi-synthetic and synthetic molecules that claim to improve cognitive functions (such as executive functions, attention, memory, creativity)."
