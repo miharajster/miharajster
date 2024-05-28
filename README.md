@@ -28,11 +28,11 @@ In my spare time I like to spend my time with my two cats Zoe and Stormy, collec
 - [How To Use ChatGPT and get UNFAIR Advantage](https://github.com/miharajster/HowToChatGPT)
 
 ### 💊 I'm also a big nootropics guy, and my current basic stack is
-- Methylene Blue (enables unused brain tissue)
-- Lion's Mane 2g (provides neurogenesis - brain growth, resulting in faster thinking and focus)
-- Ginkgo 2g (provides you with better memory and focus)
-- Creatine (optimizes brain nutrition - affects speed and focus)
-- Omega-3 800mg EPA, 600mg DHA (brain food)
+- [Methylene Blue](https://www.youtube.com/watch?v=p97zv5SFls4) (enables unused brain tissue)
+- [Lion's Mane](https://www.youtube.com/watch?v=pNVTOFirY5U) 2g (provides neurogenesis - brain growth, resulting in faster thinking and focus)
+- [Ginkgo Biloba](https://www.youtube.com/watch?v=1_PBEjC6cgE) 2g (provides you with better memory and focus)
+- [Creatine](https://www.youtube.com/watch?v=XxZB3Q6EFJU) (optimizes brain nutrition - affects speed and focus)
+- [Omega-3](https://www.youtube.com/watch?v=kxPgP6kyK6k) 800mg EPA, 600mg DHA (brain food)
 - Vitamin D3, C, B1, B2, B3, B5, B6, B9, B12, Magnesium, Zinc
 - 30 min/day HIIT
 - And abnormally large doses of laboratory-grade Caffeine
