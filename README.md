@@ -37,6 +37,8 @@ In my spare time I like to spend my time with my two cats Zoe and Stormy, collec
 - 30 min/day HIIT
 - And abnormally large doses of laboratory-grade Caffeine
 
+[My article about nootropics on Medium](https://medium.com/@rajster.miha/how-i-optimize-for-cognition-as-a-developer-nootropics-focussupreme-f68b8a9fc6f7)
+
 > [!NOTE]
 > "Nootropics (/noʊ.əˈtroʊpɪks/ noh-ə-TROHP-iks or /noʊ.əˈtrɒpɪks/ noh-ə-TROP-iks[1]) (colloquial: brain supplements, smart drugs and cognitive enhancers) are numerous natural, semi-synthetic and synthetic molecules that claim to improve cognitive functions (such as executive functions, attention, memory, creativity)."
 > Wikipedia
